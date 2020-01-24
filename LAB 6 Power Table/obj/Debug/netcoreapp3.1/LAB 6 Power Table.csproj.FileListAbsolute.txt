@@ -1,0 +1,11 @@
+C:\Users\nayan\source\repos\LAB 6 Power Table\LAB 6 Power Table\bin\Debug\netcoreapp3.1\LAB 6 Power Table.exe
+C:\Users\nayan\source\repos\LAB 6 Power Table\LAB 6 Power Table\bin\Debug\netcoreapp3.1\LAB 6 Power Table.deps.json
+C:\Users\nayan\source\repos\LAB 6 Power Table\LAB 6 Power Table\bin\Debug\netcoreapp3.1\LAB 6 Power Table.runtimeconfig.json
+C:\Users\nayan\source\repos\LAB 6 Power Table\LAB 6 Power Table\bin\Debug\netcoreapp3.1\LAB 6 Power Table.runtimeconfig.dev.json
+C:\Users\nayan\source\repos\LAB 6 Power Table\LAB 6 Power Table\bin\Debug\netcoreapp3.1\LAB 6 Power Table.dll
+C:\Users\nayan\source\repos\LAB 6 Power Table\LAB 6 Power Table\bin\Debug\netcoreapp3.1\LAB 6 Power Table.pdb
+C:\Users\nayan\source\repos\LAB 6 Power Table\LAB 6 Power Table\obj\Debug\netcoreapp3.1\LAB 6 Power Table.csprojAssemblyReference.cache
+C:\Users\nayan\source\repos\LAB 6 Power Table\LAB 6 Power Table\obj\Debug\netcoreapp3.1\LAB 6 Power Table.AssemblyInfoInputs.cache
+C:\Users\nayan\source\repos\LAB 6 Power Table\LAB 6 Power Table\obj\Debug\netcoreapp3.1\LAB 6 Power Table.AssemblyInfo.cs
+C:\Users\nayan\source\repos\LAB 6 Power Table\LAB 6 Power Table\obj\Debug\netcoreapp3.1\LAB 6 Power Table.dll
+C:\Users\nayan\source\repos\LAB 6 Power Table\LAB 6 Power Table\obj\Debug\netcoreapp3.1\LAB 6 Power Table.pdb
